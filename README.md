@@ -10,7 +10,7 @@ The following gallery showcases the complete system from schematic design to dep
 
 | Circuit Diagram | Prototype Setup |
 | :---: | :---: |
-| <img src="[https://res.cloudinary.com/demo/image/upload/v1716912345/greenhouse_circuit_diagram.png](https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779894539/Gemini_Generated_Image_ufsdcpufsdcpufsd_baxuz4.png)" width="350"> | <img src="[https://res.cloudinary.com/demo/image/upload/v1716912346/greenhouse_prototype_view.png](https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779894418/WhatsApp_Imcage_2026-05-27_at_19.41.11_zbvqwh.jpg)" width="350"> |
+| <img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779894539/Gemini_Generated_Image_ufsdcpufsdcpufsd_baxuz4.png" width="350"> | <img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779894418/WhatsApp_Imcage_2026-05-27_at_19.41.11_zbvqwh.jpg" width="350"> |
 | *Accurate wiring schematic.* | *Components assembled on breadboard.* |
 
 | Sensor Deployment | Final Output Display |
