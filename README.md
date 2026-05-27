@@ -71,4 +71,4 @@ Ensure the connections are made precisely according to the circuit diagram:
 4.  Upload the code.
 
 ---
-*Developed for KANDU_UNI_26 project.*
+
