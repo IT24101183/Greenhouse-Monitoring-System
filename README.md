@@ -15,7 +15,7 @@ The following gallery showcases the complete system from schematic design to dep
 
 | Sensor Deployment | Final Output Display |
 | :---: | :---: |
-| <img src="https://res.cloudinary.com/demo/image/upload/v1716912347/greenhouse_sensor_setup.png" width="350"> | <img src="https://res.cloudinary.com/demo/image/upload/v1716912348/greenhouse_lcd_output.png" width="350"> |
+| <img src="https://res.cloudinary.com/demo/image/upload/v1716912347/greenhouse_sensor_setup.png" width="350"> | <img src="https://res.cloudinary.com/dbbihgoyy/image/upload/q_auto/f_auto/v1779893926/Gemini_Generated_Image_w2r6rnw2r6rnw2r6_jz1bt3.png" width="350"> |
 | *Sensors monitoring the environment.* | *Live data on the 16x4 LCD.* |
 
 ---
